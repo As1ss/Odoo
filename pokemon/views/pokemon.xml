@@ -24,6 +24,8 @@
           <sheet>
             <group name="group_top">
                 <field name="nickname" placeholder="Nombre del Pokemon"/>
+    <field name="specie"/>
+
               <group name="group_left">       
                 <group name="group_left">
                 </group>
